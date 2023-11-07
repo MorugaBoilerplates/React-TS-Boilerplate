@@ -1,0 +1,92 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Build files
+/build
+/dist
+
+# Environment files
+/.env
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Editor and IDE configuration files
+/.vscode
+/.idea
+*.sublime-workspace
+*.sublime-project
+
+# Local DB files
+*.sqlite
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# NYC test coverage directories
+/coverage
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Archive files created when archiving the project
+*.tar.gz
+*.zip
+*.tgz
+
+# Log files
+*.log
+
+# Storybook build directories and files
+/storybook-static
+.iframe.html
+
+# Jest files
+/jest.cache
+/jest-test-results.json
+
+# TypeScript files
+*.tsbuildinfo
+
+# ESLint configuration files
+.eslintcache
+
+# Stylelint configuration files
+.stylelintcache
+
+# Prettier configuration files
+.prettiercache
+
+# Next.js configuration files
+/.next
+/out
+
+# Nuxt.js configuration files
+.nuxt
+/dist
+
+# Vue.js configuration files
+/dist
+/vue-ssr-client-manifest.json
+/vue-ssr-server-bundle.json
+
+# Rollup configuration files
+/rollup.cache/
+
+# Parcel configuration files
+.cache
+.parcel-cache
+
+# Turbo configuration files
+.turbo
+
+# Vercel configuration files
+.vercel
